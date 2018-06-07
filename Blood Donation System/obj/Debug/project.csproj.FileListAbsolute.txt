@@ -1,0 +1,33 @@
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\project.exe.config
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\project.exe
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\project.pdb
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.exe
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.pdb
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.Form2.resources
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.DONOR.resources
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.Blood_bank.resources
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.Patient.resources
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.Sponser.resources
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.Welcome.resources
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.Tables_Viewer.resources
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\project.Report.resources
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\RdlCompile.cache
+C:\Users\Z-uMa\Desktop\project\project\project\obj\Debug\RdlCompile.compiled
+G:\Materials\FCI\2nd Year\2nd Term\DataBase\Blood Donation Project\project\project\project\bin\Debug\project.exe.config
+G:\Materials\FCI\2nd Year\2nd Term\DataBase\Blood Donation Project\project\project\project\obj\Debug\project.exe
+G:\Materials\FCI\2nd Year\2nd Term\DataBase\Blood Donation Project\project\project\project\obj\Debug\project.pdb
